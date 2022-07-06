@@ -1,8 +1,19 @@
 # Useful data types for PHP
 
+[![](https://img.shields.io/github/release/francalek/datatype.svg?style=flat&sort=semver)](https://github.com/francalek/datatype/releases/)
+[![](https://img.shields.io/github/license/francalek/datatype.svg?style=flat)](https://github.com/francalek/datatype/blob/main/LICENSE.md)
+
 ## Requirements
 
 This package works with **PHP >= 7.1**
+
+## Installation
+
+The best way to install this package is using [Composer](https://getcomposer.org/):
+
+```console
+$ composer require francalek/datatype
+```
 
 ## Usage
 
