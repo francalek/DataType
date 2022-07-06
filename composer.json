@@ -19,9 +19,9 @@
 		"phpunit/phpunit": "^9"
 	},
 	"autoload": {
-		"psr-4": {"Francalek\\": "src/"}
+		"psr-4": {"Francalek\\DataType\\": "src/"}
 	},
 	"autoload-dev": {
-		"psr-4": {"Francalek\\Tests\\": "tests/"}
+		"psr-4": {"Francalek\\Tests\\DataType\\": "tests/"}
 	}
 }
