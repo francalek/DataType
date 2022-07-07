@@ -75,9 +75,10 @@ $ composer tests
 
 ## Contribute
 
-1. If you found a bug or have an idea for a new feature, you can create new Issue.
-1. Fork this repository on GitHub to start adding new features, fixing bugs or creating more tests.
-1. Don't forget send a pull request to get your changes in this package.
+- If you found a bug or have an idea for a new feature, you can create [new Issue](https://github.com/francalek/DataType/issues).
+- [Fork this repository](https://github.com/francalek/DataType/fork) to start adding new features, fixing bugs or creating more tests.
+- Don't forget send a pull request to get your changes in this package.
+- Read full text of [Contributing](./CONTRIBUTING.md).
 
 ## License
 
