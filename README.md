@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/github/release/francalek/datatype.svg?style=flat&sort=semver)](https://github.com/francalek/datatype/releases/)
 [![](https://img.shields.io/github/license/francalek/datatype.svg?style=flat)](https://github.com/francalek/datatype/blob/main/LICENSE.md)
+[![](https://img.shields.io/packagist/php-v/francalek/datatype.svg?style=flat)](https://github.com/francalek/datatype/blob/main/LICENSE.md)
+[![](https://img.shields.io/github/workflow/status/francalek/datatype/PHP%20Composer?style=flat)](https://github.com/francalek/DataType/actions/workflows/php.yml)
 
 ## Requirements
 
@@ -11,7 +13,7 @@ This package works with **PHP >= 7.1**
 
 The best way to install this package is using [Composer](https://getcomposer.org/):
 
-```console
+```bash
 $ composer require francalek/datatype
 ```
 
@@ -62,10 +64,13 @@ exit("Chrrr...\n");
 ## Run tests
 
 To run tests:
-```console
+```bash
 $ git clone https://github.com/francalek/DataType.git
 $ cd DataType/
 $ ./tests/run.sh
+
+# Or over Composer
+$ composer tests
 ```
 
 ## Contribute

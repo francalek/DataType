@@ -23,5 +23,8 @@
 	},
 	"autoload-dev": {
 		"psr-4": {"Francalek\\Tests\\DataType\\": "tests/"}
-	}
+	},
+	"scripts": {
+		"tests": "./tests/run.sh"
+  }
 }
