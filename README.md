@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/release/francalek/datatype.svg?style=flat&sort=semver)](https://github.com/francalek/datatype/releases/)
 [![](https://img.shields.io/github/license/francalek/datatype.svg?style=flat)](https://github.com/francalek/datatype/blob/main/LICENSE.md)
 [![](https://img.shields.io/packagist/php-v/francalek/datatype.svg?style=flat)](https://github.com/francalek/datatype/blob/main/LICENSE.md)
-[![](https://img.shields.io/github/workflow/status/francalek/datatype/PHP%20Composer?style=flat)](https://github.com/francalek/DataType/actions/workflows/php.yml)
+[![](https://img.shields.io/github/actions/workflow/status/francalek/datatype/php.yml?style=flat)](https://github.com/francalek/DataType/actions/workflows/php.yml)
 
 ## Requirements
 
